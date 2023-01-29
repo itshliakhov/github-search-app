@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/itshliakhov.github.io/github-search-app/static/css/main.38a8a44a.css",
+    "main.js": "/itshliakhov.github.io/github-search-app/static/js/main.abf1acc3.js",
+    "index.html": "/itshliakhov.github.io/github-search-app/index.html",
+    "main.38a8a44a.css.map": "/itshliakhov.github.io/github-search-app/static/css/main.38a8a44a.css.map",
+    "main.abf1acc3.js.map": "/itshliakhov.github.io/github-search-app/static/js/main.abf1acc3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38a8a44a.css",
+    "static/js/main.abf1acc3.js"
+  ]
+}
