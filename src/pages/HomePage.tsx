@@ -33,7 +33,7 @@ export function HomePage() {
             <div className={'relative w-[560px]'}>
                 <input
                     type="text"
-                    className={'border py-2 px-4 w-full h-[42px] mb-2'}
+                    className={'xsm:mx-3 xsm:w-[90%] border py-2 px-4 md:w-full h-[42px] mb-2'}
                     placeholder={'Search for Github username...'}
                     value={search}
                     onChange={event => setSearch(event.target.value)}
