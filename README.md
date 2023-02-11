@@ -1,5 +1,5 @@
 # 🔎 Github Search App | Modern App using React.js & Typescript & Redux ( redux-toolkit ) & TailwindCSS
-
+## https://itshliakhov.github.io/github-search-app/
 
 ### 🛠 Technologies I used:
 * Typescript
